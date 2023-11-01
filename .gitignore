@@ -1,0 +1,4 @@
+.env
+venv
+loading_into_mongo/__pycache__
+web_scraping/__pycache__
